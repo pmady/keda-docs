@@ -2,6 +2,8 @@
 
 Documentation and landing page for the KEDA project at [keda.sh][].
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/keda/deploy-status)](https://app.netlify.com/sites/keda/deploys)
+
 - [Become a listed KEDA user!](CONTRIBUTING.md#become-a-listed-KEDA-user)
 - [Become a listed KEDA commercial offering!](CONTRIBUTING.md#become-a-listed-KEDA-commercial-offering)
 
